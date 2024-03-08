@@ -20,6 +20,9 @@
 - 교육기관 : 엔코아 아카데미 (플레이데이터)  
 - 교육기간 : 2023.06.22 ~ 2023.12.21 (약 6개월)
   
+### 🪪 자격증 
+- 정보처리기사 필기
+- SQL개발자(SQLD) 자격증 취득 
 
 ### 🛠️ 기술 스택
 - Language : ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
