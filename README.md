@@ -6,13 +6,13 @@
 [![Gmail](https://img.shields.io/badge/Gmail-0677d1?style=flat-square&logo=Gmail&logoColor=black)](mailto:alsgml1341@gmail.com)
 [![Tistory](https://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=tistory&logoColor=#000000)](https://nuvgw2810.tistory.com/)
 
-안녕하세요!  
-백엔드 개발자를 준비하고 있는 강민희입니다.  
-'아는 만큼 보인다!'가 저의 모토입니다!  
-많은 것을 알고 넓은 시야로 보기 위해 열심히 공부하고 있습니다.
+안녕하세요! 백엔드 개발자를 준비하고 있는 강민희입니다.
 
-현재는 Java, Spring, SpringBoot, Algorithm 를 공부하고 있습니다. 
+**'아는 만큼 보인다!'**
 
+이것은 저의 모토입니다! 많은 것을 알고 넓은 시야로 보기 위해 열심히 공부하고 있습니다.
+
+현재는 **Java, Spring, SpringBoot, Algorithm** 을 공부하고 있습니다. 
 
 
 ### 🎓 교육 
@@ -20,7 +20,6 @@
 - 교육기관 : 엔코아 아카데미 (플레이데이터)  
 - 교육기간 : 2023.06.22 ~ 2023.12.21
   
-
 
 ### 🛠️ 기술 스택
 - Language : ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -43,4 +42,25 @@
                   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white),
                   ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black),
                   ![Swagger Hub](https://img.shields.io/badge/Swagger%20Hub-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+
+### 🌱 부트캠프 미니 프로젝트 
+- [mini Project 03](https://github.com/minhee810/Bootcamp_project03_ITLink) : IT 관련 정보 공유 페이지 
+
+- [mini Project 04](https://github.com/minhee810/Bootcamp_project04_shopping) : 쇼핑몰 Spring MVC 구조로 변경 
+
+- [mini Project 05](https://github.com/minhee810/Bootcamp_project05_LetsCoding-BE) : 온라인 스터디 중개 플랫폼 ver 1
+
+### 🌿 부트캠프 최종 프로젝트 
+- [final Project 06](https://github.com/minhee810/ReCode-BE.git) : 온라인 스터디 중개 플랫폼 ver 2
+
+
+### 🔗 기술 블로그 
+공부하며 새롭게 알게된 내용, 트러블 슈팅, 헷갈리는 개념, 주간 회고록 등을 기록하고 있습니다. 
+[계속하다보면-tistory](https://nuvgw2810.tistory.com/)
+
+
+
+
+
 
