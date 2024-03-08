@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Minhee's%20Github%20💾&fontSize=40&desc=💻%20Backend%20Developer&fontAlignY=34&descAlignY=52&textBg=false&reversal=false&animation=fadeIn&rotate=0&strokeWidth=0)
+![header](https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&text=Minhee's%20Github%20💾&fontSize=30&desc=💻%20Backend%20Developer&fontAlignY=25&descAlignY=40&textBg=false&reversal=false&animation=fadeIn&rotate=0&strokeWidth=0&descSize=-10)
 
 <a href="https://nuvgw2810.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=tistory&logoColor=#000000"/></a>
 <a href="mailto:alsgml1341@gmail.com"><img src="https://img.shields.io/badge/Gmail-0677d1?style=flat-square&logo=Gmail&logoColor=black"/></a>
