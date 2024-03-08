@@ -60,7 +60,7 @@
 [계속하다보면-tistory](https://nuvgw2810.tistory.com/)
 
 ### 📧 E-mail 
-- alsgml1341@gmail.com
+- Google : alsgml1341@gmail.com
 
 
 
