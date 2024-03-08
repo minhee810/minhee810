@@ -1,6 +1,9 @@
- ### Hi there 👋
+ ### Minhee_Kang 👋
+<a href="https://nuvgw2810.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF5722?style=flat-square&logo=tistory&logoColor=#000000"/></a>
+<a href="mailto:alsgml1341@gmail.com"><img src="https://img.shields.io/badge/Gmail-0677d1?style=flat-square&logo=Gmail&logoColor=black"/></a>
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=blue&height=5&section=header&text=bold&fontSize=15" />
 <!--
 **minhee810/minhee810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
