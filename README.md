@@ -59,6 +59,8 @@
 - 공부하며 새롭게 알게된 내용, 트러블 슈팅, 헷갈리는 개념, 주간 회고록 등을 기록하고 있습니다. 
 [계속하다보면-tistory](https://nuvgw2810.tistory.com/)
 
+### 📧 E-mail 
+- alsgml1341@gmail.com
 
 
 
