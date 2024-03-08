@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=210&color=gradient&text=Minhee's%20Github%20💾&fontSize=30&desc=💻%20Backend%20Developer&fontAlignY=25&descAlignY=40&textBg=false&reversal=false&animation=fadeIn&rotate=0&strokeWidth=0&descSize=-10)
 
-## 안녕하세요. 오래오래 개발하고 싶은 강민희입니다 😄
+## 안녕하세요. 강민희입니다 😄
 ### 🤔 Who Am I 
 
 [![Gmail](https://img.shields.io/badge/Gmail-0677d1?style=flat-square&logo=Gmail&logoColor=black)](mailto:alsgml1341@gmail.com)
