@@ -57,7 +57,9 @@
 - [mini Project 05](https://github.com/minhee810/Bootcamp_project05_LetsCoding-BE) : 온라인 스터디 중개 플랫폼 ver 1
 
 ### 🌿 부트캠프 최종 프로젝트 
-- [final Project 06](https://github.com/minhee810/ReCode-BE.git) : 온라인 스터디 중개 플랫폼 ver 2
+- final Project 06  : 온라인 스터디 중개 플랫폼 ver 2
+  - [Backend_repo](https://github.com/minhee810/ReCode-BE.git) <br>
+  - [Frontend_repo](https://github.com/minhee810/ReCode-FE.git) 
 
 
 ### 🔗 기술 블로그 
