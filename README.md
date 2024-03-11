@@ -3,8 +3,8 @@
 ## 안녕하세요. 강민희입니다 😄
 ### 🤔 Who Am I 
 
-[![Gmail](https://img.shields.io/badge/Gmail-0677d1?style=for-the-badge&logo=Gmail&logoColor=black)](mailto:alsgml1341@gmail.com)
-[![Tistory](https://img.shields.io/badge/Tistory-FF5722?style=for-the-badge&logo=tistory&logoColor=#000000)](https://nuvgw2810.tistory.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-0677d1?style=flat&logo=Gmail&logoColor=black)](mailto:alsgml1341@gmail.com)
+[![Tistory](https://img.shields.io/badge/Tistory-FF5722?style=flat&logo=tistory&logoColor=#000000)](https://nuvgw2810.tistory.com/)
 
 안녕하세요! 백엔드 개발자를 준비하고 있는 강민희입니다.
 
