@@ -52,7 +52,7 @@
 ### 🌱 부트캠프 미니 프로젝트 
 - [mini Project 03](https://github.com/minhee810/Bootcamp_project03_ITLink) : IT 관련 정보 공유 페이지 
 
-- [mini Project 04](https://github.com/minhee810/Bootcamp_project04_shopping) : 쇼핑몰 Spring MVC 구조로 변경 
+- [mini Project 04](https://github.com/minhee810/Bootcamp_project04_shopping) : 쇼핑몰 Spring MVC 구조로 변경
 
 - [mini Project 05](https://github.com/minhee810/Bootcamp_project05_LetsCoding-BE) : 온라인 스터디 중개 플랫폼 ver 1
 
