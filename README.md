@@ -50,7 +50,7 @@
   
 
 ### 🌱 부트캠프 미니 프로젝트 
-- [mini Project 03](https://github.com/minhee810/Bootcamp_project03_ITLink) : IT 관련 정보 공유 페이지 
+- [mini Project 03](https://github.com/minhee810/Bootcamp_project03_ITLink) : IT 관련 정보 공유 페이지 (Java Web 게시판 구현) 
 
 - [mini Project 04](https://github.com/minhee810/Bootcamp_project04_shopping) : 쇼핑몰 Spring MVC 구조로 변경
 
