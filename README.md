@@ -67,25 +67,21 @@
   
 <br> 
 
-### 🌱 부트캠프 미니 프로젝트 
+### 🌱 부트캠프 프로젝트 
 - [mini Project 03](https://github.com/minhee810/Bootcamp_project03_ITLink) : IT 관련 정보 공유 페이지 (Java Web 게시판 구현) 
 
 - [mini Project 04](https://github.com/minhee810/Bootcamp_project04_shopping) : 쇼핑몰 Spring MVC 구조로 변경
 
 - [mini Project 05](https://github.com/minhee810/Bootcamp_project05_LetsCoding-BE) : 온라인 스터디 중개 플랫폼 ver 1
-
-<br> 
-
-### 🌿 부트캠프 최종 프로젝트 
+  
 - final Project 06  : 온라인 스터디 중개 플랫폼 ver 2
   - [Backend_repo](https://github.com/minhee810/ReCode-BE.git) <br>
-  - [Frontend_repo](https://github.com/minhee810/ReCode-FE.git) 
-
+  - [Frontend_repo](https://github.com/minhee810/ReCode-FE.git)
 <br> 
 
-### 📈 현재 진행중인 프로젝트 
+### 🌿 수료 후 진행 프로젝트 
 - [minhee-game Project](https://github.com/2-junhee/minhee-game-server.git) : 보드게임 웹 사이트 제작 (오목게임부터)
-
+- [photogram Project](https://github.com/minhee810/instagram.git) : 인스타그램 클론코딩 
 
 <br> 
 
