@@ -85,7 +85,7 @@
 
 ### 🌿 수료 후 진행 프로젝트 
 - [minhee-game Project](https://github.com/2-junhee/minhee-game-server.git) : 보드게임 웹 사이트 제작 (오목게임부터)
-- [photogram Project](https://github.com/minhee810/instagram.git) : 인스타그램 클론코딩 
+- [photogram Project](https://github.com/minhee810/Photogram) : 인스타그램 클론코딩 
 
 <br> 
 
